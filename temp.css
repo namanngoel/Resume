@@ -1,0 +1,17 @@
+.wrapper{
+	margin: 0;
+	display: grid;
+	grid-template-rows: 10vh 10vh 70vh 30vh;
+}
+.one{
+	background: red;
+}
+.two{
+	background: green;
+}
+.three{
+	background: yellow;
+}
+.four{
+	background: cyan;
+}
